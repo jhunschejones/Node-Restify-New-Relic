@@ -31,3 +31,5 @@ Now that we have the front and back end pieces of our application working, we ar
  
 ### Part 4: Deploy
 If you want to run this application in the wild, I recommend deploying to Heroku. Creating a [free account](https://signup.heroku.com/) and deploying using the CLI is easy, and step by step commands are provided. Bonus: if you’ve followed the steps to install and configure the New Relic Node.js agent before deploying the application, you can use New Relic Synthetics to ping your live Heroku application and generate monitoring data to view in the New Relic UI!
+
+![](https://filedn.com/lWYjvlpRciYBP9xzzyqgShB/_Additional-Static-Files/SQLite-Node.png)
